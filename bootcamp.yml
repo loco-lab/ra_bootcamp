@@ -1,0 +1,10 @@
+name: chart_bootcamp
+
+dependencies:
+  - pip
+  - matplotlib
+  - astropy
+  - pandas
+  - scipy
+  - pip:
+      - git+https://github.com/astrochart/CHART.git
